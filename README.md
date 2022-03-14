@@ -1,4 +1,4 @@
-# US-bikeshare-data
+# US bikeshare data
 A basic data exploration related to bike share systems for three major cities in USA.
 
 ## Project Overview
